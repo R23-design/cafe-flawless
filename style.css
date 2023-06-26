@@ -435,7 +435,8 @@ footer
     margin-top: 50px;
   }
   .menu-img {
-    height: 300px;
+    height: 150px;
+    background-attachment: scroll;
   }
   .menu-flex {
     flex-direction: column;
